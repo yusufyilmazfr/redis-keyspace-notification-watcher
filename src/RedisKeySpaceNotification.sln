@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisKeySpaceNotification.Core", "RedisKeySpaceNotification.Core\RedisKeySpaceNotification.Core.csproj", "{4E5C1862-25FF-48E9-A1BD-32B862EBBBE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisKeySpaceNotification.Console", "RedisKeySpaceNotification.Console\RedisKeySpaceNotification.Console.csproj", "{F9ACC744-4272-4D56-A79C-E983B6933AEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E5C1862-25FF-48E9-A1BD-32B862EBBBE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E5C1862-25FF-48E9-A1BD-32B862EBBBE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E5C1862-25FF-48E9-A1BD-32B862EBBBE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E5C1862-25FF-48E9-A1BD-32B862EBBBE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9ACC744-4272-4D56-A79C-E983B6933AEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9ACC744-4272-4D56-A79C-E983B6933AEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9ACC744-4272-4D56-A79C-E983B6933AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9ACC744-4272-4D56-A79C-E983B6933AEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8CA7424-04EB-4283-90A9-F87B22E48163}
+	EndGlobalSection
+EndGlobal
