@@ -1,9 +1,0 @@
-C:\Users\yusuf\Documents\Projects\RedisKeySpaceNotification\RedisKeySpaceNotification.Core\bin\Debug\netcoreapp3.1\RedisKeySpaceNotification.Core.deps.json
-C:\Users\yusuf\Documents\Projects\RedisKeySpaceNotification\RedisKeySpaceNotification.Core\bin\Debug\netcoreapp3.1\RedisKeySpaceNotification.Core.dll
-C:\Users\yusuf\Documents\Projects\RedisKeySpaceNotification\RedisKeySpaceNotification.Core\obj\Debug\netcoreapp3.1\RedisKeySpaceNotification.Core.csprojAssemblyReference.cache
-C:\Users\yusuf\Documents\Projects\RedisKeySpaceNotification\RedisKeySpaceNotification.Core\obj\Debug\netcoreapp3.1\RedisKeySpaceNotification.Core.AssemblyInfoInputs.cache
-C:\Users\yusuf\Documents\Projects\RedisKeySpaceNotification\RedisKeySpaceNotification.Core\obj\Debug\netcoreapp3.1\RedisKeySpaceNotification.Core.AssemblyInfo.cs
-C:\Users\yusuf\Documents\Projects\RedisKeySpaceNotification\RedisKeySpaceNotification.Core\bin\Debug\netcoreapp3.1\RedisKeySpaceNotification.Core.pdb
-C:\Users\yusuf\Documents\Projects\RedisKeySpaceNotification\RedisKeySpaceNotification.Core\obj\Debug\netcoreapp3.1\RedisKeySpaceNotification.Core.csproj.CoreCompileInputs.cache
-C:\Users\yusuf\Documents\Projects\RedisKeySpaceNotification\RedisKeySpaceNotification.Core\obj\Debug\netcoreapp3.1\RedisKeySpaceNotification.Core.dll
-C:\Users\yusuf\Documents\Projects\RedisKeySpaceNotification\RedisKeySpaceNotification.Core\obj\Debug\netcoreapp3.1\RedisKeySpaceNotification.Core.pdb
